@@ -9,11 +9,9 @@ Clients wants to create a Road Accident Dashboard for year 2021 and 2022 so they
 
 . PRIMARY KPI1 -  Total Casualties by Accident Values for current year(2022) and YOY growth.
 
-. PRIMARY KPI2 - Total Casualties by Accident Severity for current yesr(2022) and YOY growth.
+. PRIMARY KPI2 - Total Casualties by Accident Severity for current yesr(2022) and YOY growth
 
-
-
-.                     SECONDARY KPIs;
+. SECONDARY KPIs;
 
 Total casualties with respect to vehicle type for current year(2022),
 
@@ -26,7 +24,7 @@ Current year casualties by area / location & by day/night,
 Total casualties and Total Accidents by location
 
 
-### Power BI Cncepts applied
+### Power BI Concepts applied
 . DAX Concepts; Calculated columns, calculated measures.
 
 . Data modelling; star schema(*:1).

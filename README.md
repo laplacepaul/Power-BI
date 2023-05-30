@@ -1,6 +1,6 @@
 # Power-BI - Road Accident Analysis
 A full project done on power bi desktop
-
+![](https://github.com/laplacepaul/Power-BI/blob/main/Road%20accident.png)
 ### Introduction
 I noticed that there's no single day without a single accident case, so I dexided to make researches on the factors causing these accidents using the little knowledge I've acquired over time.
 

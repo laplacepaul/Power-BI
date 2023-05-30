@@ -1,4 +1,4 @@
-# Power-BI
+# Power-BI - Road Accident Analysis
 A full project done on power bi desktop
 
 ### Introduction
@@ -40,6 +40,7 @@ Noticed that there was a typo error in the "accident severity" column, instead o
 6. YOY Accidents (Current Year Accidents-Prev. Year Accidents)/Prev. Year Accidents
 
 **Data Modelling**
+
 Star Schema(* : 1)
 
 
